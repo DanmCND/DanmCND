@@ -52,9 +52,4 @@
 </div>
 
 <br/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1F0D&height=100&section=footer" width="100%"/>
-
 </div>
