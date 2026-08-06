@@ -37,22 +37,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:000000&height=2" width="100%"/>
 
-## 🎨 SPOT EM DESTAQUE
-
-<div align="center">
-  <a href="https://github.com/DanmCND/app-codeverse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanmCND&repo=app-codeverse&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=ffffff" />
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:000000&height=2" width="100%"/>
-
 ## 🖤 STATS DA QUEBRADA
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanmCND&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=ffffff&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanmCND&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=ffffff" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanmCND&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=ffffff&currStreakNum=ffffff&dates=8b8b8b&stroke=39FF14" />
@@ -60,25 +45,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:000000&height=2" width="100%"/>
 
-## 🏆 TROFÉUS
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanmCND&theme=matrix&no-frame=true&margin-w=8&row=1" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:000000&height=2" width="100%"/>
-
-## 📟 ATIVIDADE NA PISTA
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanmCND&hide_border=true&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ABERTO_A_ROLÊS_DE_CÓDIGO-39FF14?style=for-the-badge&labelColor=000000" alt="Status"/>
   <img src="https://img.shields.io/github/last-commit/DanmCND/app-codeverse?style=for-the-badge&color=39FF14&labelColor=000000&label=LAST+COMMIT" alt="Last commit"/>
+  <img src="https://img.shields.io/github/languages/top/DanmCND/app-codeverse?style=for-the-badge&color=39FF14&labelColor=000000&label=TOP+LANG" alt="Top language"/>
 </div>
 
 <br/>
