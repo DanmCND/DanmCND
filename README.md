@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1F0D&height=180&section=header&text=DANM%20//%20DanmCND&fontSize=40&fontColor=39FF14&fontAlignY=45&desc=street%20coded%20%7C%20self%20taught%20%7C%20no%20cap&descAlignY=68&descSize=15&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1F0D&height=120&section=header&text=DANM&fontSize=36&fontColor=39FF14&fontAlignY=42&desc=street%20coded%20%7C%20self%20taught&descAlignY=68&descSize=14&descColor=ffffff" width="100%"/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=400&size=26&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=520&lines=BUILT+IN+THE+STREETS.;RUNS+ON+ELECTRON.;TAGGED+BY+DANM." alt="Typing SVG" />
 </a>
