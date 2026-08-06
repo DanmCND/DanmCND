@@ -29,7 +29,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:000000&height=2" width="100%"/>
 
-## 🛹 STACK
+##  STACK
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,electron,html,css,nodejs,git&theme=dark" />
@@ -37,7 +37,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:000000&height=2" width="100%"/>
 
-## 🖤 STATS DA QUEBRADA
+##  STATS 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanmCND&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=ffffff&currStreakNum=ffffff&dates=8b8b8b&stroke=39FF14" />
