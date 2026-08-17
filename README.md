@@ -10,9 +10,6 @@
 <a href="mailto:seu-email@exemplo.com">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000" alt="Email"/>
 </a>
-<a href="https://github.com/DanmCND" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000" alt="GitHub"/>
-</a>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=DanmCND&style=for-the-badge&color=39FF14&labelColor=000000&label=VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/DanmCND?style=for-the-badge&color=39FF14&labelColor=000000&label=FOLLOWERS" alt="Followers"/>
